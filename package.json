@@ -1,0 +1,39 @@
+{
+  "name": "onictelefonia",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.16.0",
+    "core-js": "^2.6.5",
+    "cors": "^2.8.5",
+    "di-vue-mask": "^1.1.0",
+    "firebase": "^7.19.1",
+    "lodash.groupby": "^4.6.0",
+    "moment": "^2.27.0",
+    "v-money": "^0.8.1",
+    "vue": "^2.6.10",
+    "vue-masked-input": "^0.5.2",
+    "vue-material": "^1.0.0-beta-15",
+    "vue-router": "^3.0.3",
+    "vue-the-mask": "^0.11.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0",
+    "@vue/cli-plugin-eslint": "^3.0.0",
+    "@vue/cli-service": "^3.0.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
